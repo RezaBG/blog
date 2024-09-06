@@ -1,6 +1,6 @@
 AUTHOR = 'Reza Barzegar'
 SITENAME = 'blog'
-SITEURL = "rezabg.github.io"
+SITEURL = ""
 
 PATH = "content"
 
