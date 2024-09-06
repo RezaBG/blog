@@ -2,7 +2,7 @@ AUTHOR = 'Reza Barzegar'
 SITENAME = 'blog'
 SITEURL = ""
 
-PATH = "content"
+PATH = "articles"
 
 TIMEZONE = 'Europe/Rome'
 
