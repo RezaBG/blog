@@ -1,9 +1,6 @@
-
----
-##  Title: GitHub SSH Key Setup and Repository Cloning
-###### Date: 2024-09-26 21:23
-###### Category: Programming
----
+Title: GitHub SSH Key Setup and Repository Cloning
+Date: 2024-09-26 21:23
+Category: Programming
 
 ### GitHub SSH Key Setup and Repository Cloning
 
