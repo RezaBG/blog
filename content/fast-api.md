@@ -1,8 +1,6 @@
----
 Title: FastAPI CRUD
 Date: 2024-09-15 10:40
 Category: Programming
----
 
 # FastAPI doesn't require you to use a SQL (relational) database.
 
@@ -23,3 +21,4 @@ FastAPI makes it easy to add query parameters to your endpoints. They are option
 @app.get("/items/")
 async def read_items(q: Optional[str] = None):
     return {"q": q}
+```
